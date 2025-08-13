@@ -1,4 +1,3 @@
-# snake_game
 pip install pygame
 
-python main.py
+python3 main.py
